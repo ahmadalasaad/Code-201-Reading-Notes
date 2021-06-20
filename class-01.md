@@ -480,7 +480,7 @@ script. Its s re attribute tells people where the JavaScript file is
 
 stored.
 
-* **THE SOURCE CODE IS NOT AMENDED **
+* **THE SOURCE CODE IS NOT AMENDED**
 
 
 * **PLACING THE SCRIPT IN THE PAGE**

@@ -236,31 +236,31 @@ Boolean data types can have one of two values: true or false. (true,false)
 
 * Assignment operators
 
-x = y , x = x + y , x = x - y , x = x * y , x = x / y ,.... 
+```x = y , x = x + y , x = x - y , x = x * y , x = x / y``` ,.... 
 
 * Comparison operators
 
-x == y , x < y , x > y , x >= y , x <= y  
+```x == y , x < y , x > y , x >= y , x <= y```  
 
 * Arithmetic operators
 
-x % y , x++ , x-- , ...
+```x % y , x++ , x--``` , ...
 
 * Bitwise operators
 
-x&y ,x|y , ~x , ....
+```x&y ,x|y , ~x ```, ....
 
 * Logical operators
 
-x&&y , x||y , !X
+```x&&y , x||y , !X```
 
 * String operators
 
-'x ' + 'y'
+``` 'x ' + 'y'```
 
 * Conditional (ternary) operator
 
-var status = (age >= 18) ? 'adult' : 'minor';
+``` var status = (age >= 18) ? 'adult' : 'minor';``` 
 
 * Comma operator
 
